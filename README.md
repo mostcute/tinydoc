@@ -1,4 +1,4 @@
-### Tinydoc 简介
+# Tinydoc 简介
 
 golang开发的 静态文件管理器 + [Docute](https://github.com/egoist/docute) 组成的文档网站。
 
@@ -20,7 +20,7 @@ golang开发的 静态文件管理器 + [Docute](https://github.com/egoist/docut
 
 
 
-#### Tinydoc 做了什么？
+## Tinydoc 做了什么？
 
 tinydoc就是简单的将 [Docute](https://github.com/egoist/docute) 生成的文件托管到http静态文件服务中，提供文档展示
 
@@ -38,6 +38,6 @@ tinydoc就是简单的将 [Docute](https://github.com/egoist/docute) 生成的�
 
 
 
-### 帮助信息
+## 帮助信息
 
 [Docute 官方文档]([Docute (egoist.dev)](https://docute.egoist.dev/zh/))
